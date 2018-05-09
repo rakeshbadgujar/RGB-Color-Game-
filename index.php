@@ -1,1 +1,1 @@
-<?php include_once("html/ColorpickerApp.html"); ?>
+<?php include_once("ColorpickerApp.html"); ?>
